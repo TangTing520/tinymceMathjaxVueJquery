@@ -16,7 +16,7 @@
     "less-loader": "^6.1.0",
     "mathjax": "3.0.0",
     "sass-loader": "^8.0.2",
-    "tinymce": "^5.2.2",
+    "tinymce": "^5.10.0",
     "vue": "^2.6.11",
     "vue-router": "^3.1.6",
     "vuex": "^3.1.3"
